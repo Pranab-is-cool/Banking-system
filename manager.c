@@ -9,7 +9,7 @@ int main(){
     cptr = fopen("man.txt","w");
     char ch;
 
-    printf("The file was decrypted : \n");
+    printf("The file was decrypted.....\n");
 
     if(fptr == NULL){
         printf("Cannot open");

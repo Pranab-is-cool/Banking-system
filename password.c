@@ -37,7 +37,7 @@ int main()
 
         printf("Press 1 to complete the process ");
         scanf("%d", &type);
-        printf("The file was encrypted : \n");
+        printf("The file was encrypted.....\n");
 
         if (type == 1)
         {
